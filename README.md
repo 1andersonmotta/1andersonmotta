@@ -97,5 +97,5 @@ dados PostgreSQL.
   
  📫 Contato:&nbsp; <div><a href="https://wa.me/5515997897412" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>&nbsp;<a href="https://github.com/1andersonmotta" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "></a></div>
 
-![Snake animation](https://github.com/1andersonmotta/1andersonmotta/blob/output/github-contribution-grid-snake.svg)
+
 
