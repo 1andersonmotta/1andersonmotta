@@ -1,15 +1,23 @@
-### Ola! Eu sou Anderson Motta 👋
+### Ola! Eu sou Anderson Motta 
 <div>
   <p>
-<a href="https://portifolio-anderson-motta.netlify.app/" target="_blank"> 🏡 Portifólio</a>      
+<a href="https://portifolio-anderson-motta.netlify.app/" target="_blank"> 👉 Portifólio </a>      
   </p>
 <!--![Anderson GitHub stats](https://github-readme-stats.vercel.app/api?username=1andersonmotta&show_icons=true&theme=transparent)!-->
+  <img height="180" width="210" src="https://media.giphy.com/media/MGdfeiKtEiEPS/giphy.gif"><br>
+  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  
 </div>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide=astro,glsl)
 
- 🔭 Apaixonado pela sensação de solucionar
+ 🖋 Apaixonado pela sensação de solucionar
 problemas e pelas possibilidades de criação
 no mundo da programação, iniciei minha
 jornada como desenvolvedor em junho de
@@ -34,11 +42,11 @@ desenvolvedor e contribuir para projetos
 desafiadores. Busco constantemente
 atualizar meus conhecimentos e aplicar
 minhas habilidades de resolução de
-problemas para criar soluções eficientes.
+problemas para criar soluções eficientes.<br>
 
- 🌱 Sempre Estudando Ferramentas e Tecnologias novas 
- 👯 Procuro Colaborar com a Criação & Manutenção de Aplicações API.
- 🤔 Procuro Ajudar na Resoluções de Problemas com Estudo e Debate.
+ 🌱 Sempre Estudando Ferramentas e Tecnologias <br>
+ 👯 Procuro Colaborar com a Criação & Manutenção de Aplicações<br>
+ 🤔 Disposto a Ajudar na Resoluções de Problemas com Estudo e Debate.<br>
  ⚡ Habilidades:&nbsp; 
 <div>
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white ">&nbsp;<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E ">&nbsp;<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white ">&nbsp;<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white ">&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -88,5 +96,6 @@ dados PostgreSQL.
 
   
  📫 Contato:&nbsp; <div><a href="https://wa.me/5515997897412" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>&nbsp;<a href="https://github.com/1andersonmotta" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "></a></div>
-                
+
+![Snake animation](https://github.com/1andersonmotta/1andersonmotta/blob/output/github-contribution-grid-snake.svg)
 
