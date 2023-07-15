@@ -25,7 +25,7 @@ Diversas bibliotecas e frameworks são utilizados nos projetos, como Socket.io p
 
 O conceito de GraphQL e Serverless também estão presente nos projetos, oferecendo opções avançadas de manipulação de dados e escalabilidade.
 
-Nos repositórios, você encontrará uma variedade de aplicações de estudo, desde projetos como calculadoras, radares de trânsito, agenda, portfólio, calculo de IMC, Upload de Arquivos, sistemas de e-commerce e gerenciadores de tarefas. 
+Nos repositórios, você encontrará uma variedade de aplicações de estudo, desde projetos como calculadoras, radares de trânsito, agenda, portfólio, calculo de IMC, upload de arquivos, sistemas de e-commerce e gerenciadores de tarefas. 
 
 No geral, você encontrará uma ampla gama de projetos com abordagens diversas, tecnologias modernas e ferramentas populares.
 
