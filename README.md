@@ -41,6 +41,7 @@ No geral, você encontrará uma ampla gama de projetos com abordagens diversas, 
 <br> <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white ">&nbsp;<img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white ">&nbsp;<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"></div>
 <br>
  ⏱ Plataforma de Trabalho:&nbsp;
+ <p></p>
   <div><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" ></div>
   <br>
  💼 Experiência Profissional:
