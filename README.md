@@ -17,37 +17,24 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide=astro,glsl)
 
- 🖋 Apaixonado pela sensação de solucionar
-problemas e pelas possibilidades de criação
-no mundo da programação, iniciei minha
-jornada como desenvolvedor em junho de
-2021, após uma transição de carreira como
-DJ, na qual atuei por mais de 18 anos.
-Sempre estive conectado à tecnologia e sou
-naturalmente curioso, e encontrei no
-desenvolvimento de software uma
-oportunidade de crescimento profissional.
-Ingressei no mercado por meio da empresa
-Tegra, onde tive a oportunidade de imersão
-como bolsista, e posteriormente atuei como
-desenvolvedor por aproximadamente 2
-anos. Durante esse período, adquiri um
-conhecimento valioso e estou aberto a
-novas oportunidades de aprendizado.
-Tenho prazer em estudar, sou
-comprometido, determinado e possuo
-habilidades de comunicação. Estou
-entusiasmado em continuar evoluindo como
-desenvolvedor e contribuir para projetos
-desafiadores. Busco constantemente
-atualizar meus conhecimentos e aplicar
-minhas habilidades de resolução de
-problemas para criar soluções eficientes.<br>
+ 💻 Aqui Você encontrará projetos de Sistemas de Autenticação e Autorização, e aplicações como E-commerce, Gerenciadores de Tarefas e muito mais.
+
+Além disso, você encontrará uma variedade de tecnologias e ferramentas utilizadas nos projetos. Por exemplo, no frontend, há o uso de JavaScript, HTML e CSS, bem como TypeScript com o framework NestJs para criação de APIs. Também são utilizados frameworks como Express, Fastify e Node-red para a conexão com APIs externas. Para o armazenamento de dados, são utilizados bancos de dados como PostgresSql, MySql, Sqlite3 e MongoDB, tanto em ambientes Docker quanto em plataformas em nuvem, como o Mongo Atlas. Além disso, você encontrará o uso de ORMs como TypeORM, Prisma e Sequelize, bem como consultas SQL diretas e expressões regulares (Regex).
+
+Diversas bibliotecas e frameworks são utilizados nos projetos, como Socket.io para comunicação em tempo real, Class-Validator para validação de dados, JWT Web-Token para autenticação baseada em tokens, Moment para manipulação de datas e horários, Html-to-Pdf e Puppeter para geração de arquivos PDF e Manipulação de 'Sites', Faker para geração de dados de teste, Axios para requisições HTTP, Supertest para testes de API.
+
+O conceito de GraphQL e Serverless também estão presente nos projetos, oferecendo opções avançadas de manipulação de dados e escalabilidade.
+
+Nos repositórios, você encontrará uma variedade de aplicações de estudo, desde projetos como calculadoras, radares de trânsito, agenda, portfólio, calculo de IMC, Upload de Arquivos, sistemas de e-commerce e gerenciadores de tarefas. 
+
+No geral, você encontrará uma ampla gama de projetos com abordagens diversas, tecnologias modernas e ferramentas populares.
 
  🌱 Sempre Estudando Ferramentas e Tecnologias <br>
  👯 Procuro Colaborar com a Criação & Manutenção de Aplicações<br>
  🤔 Disposto a Ajudar na Resoluções de Problemas com Estudo e Debate.<br>
- ⚡ Habilidades:&nbsp; 
+ 
+
+ ⚡ Algumas Habilidades:&nbsp; 
 <div>
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white ">&nbsp;<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E ">&nbsp;<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white ">&nbsp;<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white ">&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <br> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">&nbsp;<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white ">&nbsp;<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white ">&nbsp;<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white ">&nbsp;<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
@@ -56,7 +43,7 @@ problemas para criar soluções eficientes.<br>
  ⏱ Plataforma de Trabalho:&nbsp;
   <div><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" ></div>
   <br>
- 💼 Experiência:
+ 💼 Experiência Profissional:
 <div>
 <h1>Tegra LTDA - 08/2021 - 04/2023</h1>
 <p>
