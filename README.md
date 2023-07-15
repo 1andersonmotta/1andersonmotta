@@ -17,7 +17,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide=astro,glsl)
 
- 💻 Aqui Você encontrará projetos de Sistemas de Autenticação e Autorização, e aplicações como E-commerce, Gerenciadores de Tarefas e muito mais.
+ 💻 Aqui Você encontrará projetos de Sistemas de Autenticação e Autorização, Aplicações como E-commerce, Gerenciadores de Tarefas e muito mais.
 
 Além disso uma variedade de tecnologias e ferramentas utilizadas nos projetos. Por exemplo JavaScript, HTML e CSS, bem como TypeScript com o framework NestJs para criação de APIs. Também são utilizados frameworks como Express, Fastify e Node-red para a conexão com APIs externas. Para o armazenamento de dados, são utilizados bancos de dados como PostgresSql, MySql, Sqlite3 e MongoDB, tanto em ambientes Docker quanto em plataformas em nuvem, como o Mongo Atlas. Além disso, você encontrará o uso de ORMs como TypeORM, Prisma e Sequelize, bem como consultas SQL diretas e expressões regulares (Regex).
 
