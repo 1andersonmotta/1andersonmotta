@@ -1,4 +1,4 @@
-### Ola! Eu sou Anderson Motta 
+### Ola! Eu sou Anderson Motta
 <div>
   <p>
 <a href="https://portifolio-anderson-motta.netlify.app/" target="_blank"> 👉 Portifólio </a>      
@@ -31,8 +31,7 @@ No geral, você encontrará uma ampla gama de projetos com abordagens diversas, 
 
  🌱 Sempre em sintonia com segmento de Tecnologia <br>
  👯 Procuro colaborar com desenvolvimento, criação, análise ou manutenção de aplicações<br>
- 🤔 Disposto sempre a ajudar e aprender.<br>
- 
+ 🤔 Disposto sempre a ajudar e aprender.<br>  
  
 
  ⚡ Algumas Habilidades:&nbsp; 
