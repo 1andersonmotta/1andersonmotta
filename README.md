@@ -17,7 +17,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide=astro,glsl)
 
- 💻 Aqui Você encontrará repositórios de Sistemas de Autenticação e Autorização, Aplicações como E-commerce, Gerenciadores de Tarefas e muito mais.
+ 💻 Aqui Você encontrará repositórios de Sistemas de Gestão de Pessoas, Autenticação e Autorização, Aplicações como E-commerce, Gerenciadores de Tarefas e muito mais.
 
 Além disso uma variedade de tecnologias e ferramentas utilizadas nos projetos. Por exemplo JavaScript, HTML e CSS, bem como TypeScript com o framework NestJs para criação de APIs. Também são utilizados frameworks como Express, Fastify e Node-red para a conexão com APIs externas. Para o armazenamento de dados, são utilizados bancos de dados como PostgresSql, MySql, Sqlite3 e MongoDB, tanto em ambientes Docker quanto em plataformas em nuvem, como o Mongo Atlas. Além disso, você encontrará o uso de ORMs como TypeORM, Prisma e Sequelize, bem como consultas SQL diretas e expressões regulares (Regex).
 
@@ -29,9 +29,10 @@ Nos repositórios, você encontrará uma variedade de aplicações de estudo, de
 
 No geral, você encontrará uma ampla gama de projetos com abordagens diversas, tecnologias modernas e ferramentas populares.
 
- 🌱 Sempre Estudando Ferramentas e Tecnologias <br>
- 👯 Procuro Colaborar com a Criação & Manutenção de Aplicações<br>
- 🤔 Disposto a Ajudar na Resoluções de Problemas com Estudo e Debate.<br>
+ 🌱 Sempre em sintonia com segmento de Tecnologia <br>
+ 👯 Procuro colaborar com desenvolvimento, criação, análise ou manutenção de aplicações<br>
+ 🤔 Disposto sempre a ajudar e aprender.<br>
+ 
  
 
  ⚡ Algumas Habilidades:&nbsp; 
