@@ -10,7 +10,6 @@
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   
 </div>
 
@@ -29,9 +28,9 @@ Nos repositórios, você encontrará uma variedade de aplicações de estudo, de
 
 No geral, você encontrará uma ampla gama de projetos com abordagens diversas, tecnologias modernas e ferramentas populares.
 
- 🌱 Sempre em sintonia com segmento de Tecnologia <br>
  👯 Procuro colaborar com desenvolvimento, criação, análise ou manutenção de aplicações<br>
- 🤔 Disposto sempre a ajudar e aprender.<br>  
+ 🤔 Disposto a ajudar e aprender.<br> 
+ 🎯 Foco no Cliente
  
 
  ⚡ Algumas Habilidades:&nbsp; 
