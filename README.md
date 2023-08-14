@@ -29,7 +29,7 @@ Nos repositórios, você encontrará uma variedade de aplicações de estudo, de
 No geral, você encontrará uma ampla gama de projetos com abordagens diversas, tecnologias modernas e ferramentas populares.
 
  👯 Procuro colaborar com desenvolvimento, criação, análise ou manutenção de aplicações<br>
- 🤔 Disposto a ajudar e aprender.<br> 
+ 👨‍🎓 Disposto a ajudar e aprender.<br> 
  🎯 Foco no Cliente
  
 
