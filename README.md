@@ -81,6 +81,23 @@ dados PostgreSQL.
 </div>
 <br>
 
+
+👑 Destaques:
+
+<a href="https://lnkd.in/d6VfyRrw">Voz em Letras</a>  
+<p>Projeto Pessoal em Andamento como principal função a inclusão de pessoas com deficiência auditiva através da Transcrição de fala utilizando as
+                        tecnologias JavaScript, HTML e CSS.
+                    </p>
+<img height="180" width="210" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzk5Nnh3Yng2d3Q5NHV4a3ZzeXdoZmpjem9uanptYTlwYnlxOGl3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/djDGEZJ1C0zfwOI0Tj/giphy.gif"><br> 
+
+<a href="https://portifolio-anderson-motta.netlify.app/">Portfólio</a>  
+<p>Projeto de criação de um Portifólio para auxiliar na recolocação no mercado de trabalho,
+                        JavaScript ,HTML e CSS.
+                    </p>
+<img height="180" width="210" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3l5OHdzbTB5YjQ0NGNjcjkzOGw0YTQyeTJmYWo4emY3cDg2amo1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WQcfheFrVD3264d95U/giphy-downsized-large.gif"><br> 
+
+<a href="https://github.com/1andersonmotta?tab=repositories">Ver mais</a>
+
   
  📫 Contato:&nbsp; <div><a href="https://wa.me/5515997897412" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>&nbsp;<a href="https://github.com/1andersonmotta" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "></a></div>
 
