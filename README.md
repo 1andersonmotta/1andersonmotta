@@ -96,6 +96,13 @@ dados PostgreSQL.
                     </p>
 <img height="180" width="210" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3l5OHdzbTB5YjQ0NGNjcjkzOGw0YTQyeTJmYWo4emY3cDg2amo1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WQcfheFrVD3264d95U/giphy-downsized-large.gif"><br> 
 
+<a href="https://github.com/1andersonmotta/desafioGit.git">Desafio GitHub</a>  
+<p>Projeto Desafio  
+Criação de uma API que liste os 5 principais repositórios com mais estrelas no GitHub de 5 linguagens aleatórias. Além disso, a API permitirá listar perfis com detalhes, favoritar e desfavoritar perfis. O projeto também incluirá testes integrados com Jest. A API será desenvolvida com um banco de dados PostgreSQL utilizando Docker e Docker-Compose para simplificar o processo de implantação.
+                    </p>
+<img height="180" width="210" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdno4dDR1Y3JidTNtYnQwdXQ5cW12ZDBreXB0OHp1emp5aGNqbGxoeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Af94Xut2KZk3ReUv2R/giphy.gif"><br>
+
+
 <a href="https://github.com/1andersonmotta?tab=repositories">Ver mais</a>
 
   
