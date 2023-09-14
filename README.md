@@ -84,7 +84,7 @@ dados PostgreSQL.
 
 👑 Destaques:
 
-<a href="https://lnkd.in/d6VfyRrw">Voz em Letras</a>  
+<a href="https://vozemletras.netlify.app/">Voz em Letras</a>  
 <p>Projeto Pessoal em Andamento como principal função a inclusão de pessoas com deficiência auditiva através da Transcrição de fala utilizando as
                         tecnologias JavaScript, HTML e CSS.
                     </p>
