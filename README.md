@@ -90,6 +90,17 @@ dados PostgreSQL.
                     </p>
 <img height="180" width="210" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzk5Nnh3Yng2d3Q5NHV4a3ZzeXdoZmpjem9uanptYTlwYnlxOGl3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/djDGEZJ1C0zfwOI0Tj/giphy.gif"><br> 
 
+<a href="https://vozemletras.netlify.app/">Upload CSV FullStack</a>  
+<p>Projeto Pessoal FullStack.
+                    </p>
+<p>1 - Trilha BackEnd : Desenvolvimento em NodeJS e TypeScript com um banco de dados SQLite que deve receber um arquivo .CSV e salvá-lo, com uma opção de busca por qualquer parâmetro que possa existir.
+                    </p>
+<p>2 - Trilha FrontEnd : Desenvolvimento em NodeJS e React com Vite. Conexão com API gerada na trilha de BanckEnd. Acesso e manipulação das Rotas com a Funcionalidade de Upload, Pesquisa e Visualização Detalhada dos dados Salvos.
+                    </p>
+<img height="180" width="210" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGkwMGV2aTNmMG1lM291YTJuYWJ5Z2JhMDF3ajZzNm91ZXVhdWwyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YduFjoDh0c5F8eUuL3/giphy.gif">
+<img height="180" width="210" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG8zNTBneW1maHlsZ3FsempxMW1icmQ5Ym5tcDlzYWtrdWE4NncydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZQhzBUkiWOl4AaYFRB/giphy.gif"><br>
+
+
 <a href="https://portifolio-anderson-motta.netlify.app/">Portfólio</a>  
 <p>Projeto de criação de um Portifólio para auxiliar na recolocação no mercado de trabalho,
                         JavaScript ,HTML e CSS.
