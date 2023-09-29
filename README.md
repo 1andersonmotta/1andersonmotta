@@ -88,31 +88,32 @@ dados PostgreSQL.
 <p>Projeto Pessoal em Andamento como principal função a inclusão de pessoas com deficiência auditiva através da Transcrição de fala utilizando as
                         tecnologias JavaScript, HTML e CSS.
                     </p>
-<img height="180" width="210" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzk5Nnh3Yng2d3Q5NHV4a3ZzeXdoZmpjem9uanptYTlwYnlxOGl3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/djDGEZJ1C0zfwOI0Tj/giphy.gif"><br> 
+<img height="180" width="210" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzk5Nnh3Yng2d3Q5NHV4a3ZzeXdoZmpjem9uanptYTlwYnlxOGl3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/djDGEZJ1C0zfwOI0Tj/giphy.gif">
 
+<h1></h1>
 <a href="https://github.com/1andersonmotta/uploadCSVFullstack">Upload CSV FullStack</a>  
-<p>Projeto Pessoal FullStack.
-                    </p>
+<p> </p>
 <p>1 - Trilha BackEnd : Desenvolvimento em NodeJS e TypeScript com um banco de dados SQLite que deve receber um arquivo .CSV e salvá-lo, com uma opção de busca por qualquer parâmetro que possa existir.
                     </p>
 <p>2 - Trilha FrontEnd : Desenvolvimento em NodeJS e React com Vite. Conexão com API gerada na trilha de BanckEnd. Acesso e manipulação das Rotas com a Funcionalidade de Upload, Pesquisa e Visualização Detalhada dos dados Salvos.
                     </p>
 <img height="180" width="210" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGkwMGV2aTNmMG1lM291YTJuYWJ5Z2JhMDF3ajZzNm91ZXVhdWwyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YduFjoDh0c5F8eUuL3/giphy.gif">
-<img height="180" width="210" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG8zNTBneW1maHlsZ3FsempxMW1icmQ5Ym5tcDlzYWtrdWE4NncydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZQhzBUkiWOl4AaYFRB/giphy.gif"><br>
-
+<img height="180" width="210" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG8zNTBneW1maHlsZ3FsempxMW1icmQ5Ym5tcDlzYWtrdWE4NncydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZQhzBUkiWOl4AaYFRB/giphy.gif">
+<h1></h1>
 
 <a href="https://portifolio-anderson-motta.netlify.app/">Portfólio</a>  
 <p>Projeto de criação de um Portifólio para auxiliar na recolocação no mercado de trabalho,
                         JavaScript ,HTML e CSS.
                     </p>
-<img height="180" width="210" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3l5OHdzbTB5YjQ0NGNjcjkzOGw0YTQyeTJmYWo4emY3cDg2amo1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WQcfheFrVD3264d95U/giphy-downsized-large.gif"><br> 
+<img height="180" width="210" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3l5OHdzbTB5YjQ0NGNjcjkzOGw0YTQyeTJmYWo4emY3cDg2amo1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WQcfheFrVD3264d95U/giphy-downsized-large.gif"> 
+<h1></h1>
 
 <a href="https://github.com/1andersonmotta/desafioGit.git">Desafio GitHub</a>  
 <p>Projeto Desafio  
 Criação de uma API que liste os 5 principais repositórios com mais estrelas no GitHub de 5 linguagens aleatórias. Além disso, a API permitirá listar perfis com detalhes, favoritar e desfavoritar perfis. O projeto também incluirá testes integrados com Jest. A API será desenvolvida com um banco de dados PostgreSQL utilizando Docker e Docker-Compose para simplificar o processo de implantação.
                     </p>
-<img height="180" width="210" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdno4dDR1Y3JidTNtYnQwdXQ5cW12ZDBreXB0OHp1emp5aGNqbGxoeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Af94Xut2KZk3ReUv2R/giphy.gif"><br>
-
+<img height="180" width="210" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdno4dDR1Y3JidTNtYnQwdXQ5cW12ZDBreXB0OHp1emp5aGNqbGxoeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Af94Xut2KZk3ReUv2R/giphy.gif">
+<h1></h1>
 
 <a href="https://github.com/1andersonmotta?tab=repositories">Ver mais</a>
 
