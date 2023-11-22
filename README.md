@@ -97,8 +97,11 @@ dados PostgreSQL.
                     </p>
 <p>2 - Trilha FrontEnd : Desenvolvimento em NodeJS e React com Vite. Conexão com API gerada na trilha de BanckEnd. Acesso e manipulação das Rotas com a Funcionalidade de Upload, Pesquisa e Visualização Detalhada dos dados Salvos.
                     </p>
+                    <div>
+                      
 <img height="280" width="310" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGkwMGV2aTNmMG1lM291YTJuYWJ5Z2JhMDF3ajZzNm91ZXVhdWwyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YduFjoDh0c5F8eUuL3/giphy.gif">
 <img height="280" width="310" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG8zNTBneW1maHlsZ3FsempxMW1icmQ5Ym5tcDlzYWtrdWE4NncydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZQhzBUkiWOl4AaYFRB/giphy.gif">
+                    </div>
 <h1></h1>
 
 <a href="https://portifolio-anderson-motta.netlify.app/">Portfólio</a>  
