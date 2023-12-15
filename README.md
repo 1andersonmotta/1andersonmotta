@@ -15,9 +15,8 @@
 </div>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide=astro,glsl)
-<br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1andersonmotta&layout=compact&hide=astro,glsl)
+
 
  💻 Aqui Você encontrará repositórios com Sistemas de Gestão de Pessoas, Autenticação e Autorização, Aplicações como E-commerce, Gerenciadores de Tarefas e muito mais.
 
